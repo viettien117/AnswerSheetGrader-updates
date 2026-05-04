@@ -7,21 +7,20 @@
     <language>vi</language>
 
     <item>
-      <title>Version 1.0.1</title>
-      <pubDate>Mon, 27 Apr 2026 20:10:00 +0700</pubDate>
-      <sparkle:version>1.0.1</sparkle:version>
+      <title>Version 1.0.2</title>
+      <pubDate>Mon, 04 May 2026 21:35:00 +0700</pubDate>
+      <sparkle:version>1.0.2</sparkle:version>
       <description><![CDATA[
-        <h3>Version 1.0.1</h3>
+        <h3>Version 1.0.2</h3>
         <ul>
-          <li>Test ban dau cua he thong auto-update.</li>
-          <li>Khong co thay doi tinh nang.</li>
+          <li>Fix: app tu dong dong khi cai update — khong con dialog "Files in Use".</li>
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.1/AnswerSheetGrader-1.0.1-x64.msi"
-        length="20120064"
+        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.2/AnswerSheetGrader-1.0.2-x64.msi"
+        length="20121088"
         type="application/octet-stream"
-        sparkle:edSignature="e/T8wjWcHLnWYZwGGuRZez2wu+fSkN8kfQ4eREuz5qzbon4/0Bsp9f2bDNc2EuQe6p6hB6yhuXuqugabBjJJCQ==" />
+        sparkle:edSignature="1JLYaBKqk7OHldaZaeH25c1juuNA7PS058mEylf++81JVlrPB8TpDwRA41+qP5v9AXzqTH3phS9VtotE4mZjDQ==" />
     </item>
 
   </channel>
