@@ -7,20 +7,20 @@
     <language>vi</language>
 
     <item>
-      <title>Version 1.0.3</title>
-      <pubDate>Mon, 04 May 2026 22:00:00 +0700</pubDate>
-      <sparkle:version>1.0.3</sparkle:version>
+      <title>Version 1.0.4</title>
+      <pubDate>Mon, 04 May 2026 22:15:00 +0700</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
       <description><![CDATA[
-        <h3>Version 1.0.3</h3>
+        <h3>Version 1.0.4</h3>
         <ul>
-          <li>Verify auto-close khi cai update (test only).</li>
+          <li>Fix shutdown callback dung global HWND + ExitProcess fallback.</li>
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.3/AnswerSheetGrader-1.0.3-x64.msi"
+        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.4/AnswerSheetGrader-1.0.4-x64.msi"
         length="20121088"
         type="application/octet-stream"
-        sparkle:edSignature="u78I68RcPYhc6OsiI2eA1iyeaSD9D3+ciCmQDj4iMng1Ddu4T/XaSwMJVFXSLoXVEnZrz6+B1tzNNjcQC6VkAw==" />
+        sparkle:edSignature="0G9WnfUYQFrSyiJGEfQt7MY7yvN7EkxhUmfPEJ79Yc7JGMibLnztquQLOAsFOAkOjsOLjS2BLiU5x6rTkpaFCg==" />
     </item>
 
   </channel>
