@@ -7,20 +7,21 @@
     <language>vi</language>
 
     <item>
-      <title>Version 1.0.5</title>
-      <pubDate>Mon, 04 May 2026 22:30:00 +0700</pubDate>
-      <sparkle:version>1.0.5</sparkle:version>
+      <title>Version 1.0.6</title>
+      <pubDate>Tue, 05 May 2026 23:30:00 +0700</pubDate>
+      <sparkle:version>1.0.6</sparkle:version>
       <description><![CDATA[
-        <h3>Version 1.0.5</h3>
+        <h3>Version 1.0.6</h3>
         <ul>
-          <li>Verify auto-close hoat dong (no code change, just bump for test).</li>
+          <li>Refactor AdImages: ship AdImages.zip thay vi folder.</li>
+          <li>Setup project khong can thay doi khi them/sua/doi ten anh quang cao.</li>
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.5/AnswerSheetGrader-1.0.5-x64.msi"
-        length="20121088"
+        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.6/AnswerSheetGrader-1.0.6-x64.msi"
+        length="22342656"
         type="application/octet-stream"
-        sparkle:edSignature="LBDlXU2/gbC0CGWOUsabu9TtaumWbegFdD7/w/+YY3VemZpx5SKF9vlSYyOFFl4j/kPRBskm8LM/iX65ECOTAQ==" />
+        sparkle:edSignature="ZCAuNlk250BVxWV3zWvNm8Xwe/tIwORT2CvWOuCMsM8N4PDg4OeuUBjsfJYJ//PbVR4DqK8ifGE4P42gbGNTBg==" />
     </item>
 
   </channel>
