@@ -7,21 +7,21 @@
     <language>vi</language>
 
     <item>
-      <title>Version 1.0.7</title>
+      <title>Version 1.0.8</title>
       <pubDate>Sun, 10 May 2026 00:45:00 +0700</pubDate>
-      <sparkle:version>1.0.7</sparkle:version>
+      <sparkle:version>1.0.8</sparkle:version>
       <description><![CDATA[
-        <h3>Version 1.0.7</h3>
+        <h3>Version 1.0.8</h3>
         <ul>
-          <li>Refactor the Algorithm.</li>
-          <li>Setup project khong can thay doi khi them/sua/doi ten anh quang cao.</li>
+          <li>Release new Version 1.0.8</li>
+          <li>Change th title and remove Debug Mode.</li>
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.7/AnswerSheetGrader-1.0.7-x64.msi"
-        length="22365184"
+        url="https://github.com/viettien117/AnswerSheetGrader-updates/releases/download/v1.0.7/AnswerSheetGrader-1.0.8-x64.msi"
+        length="22355456"
         type="application/octet-stream"
-        sparkle:edSignature="s5ni2f3a8d71FyicdV2WnwkCztXTr89XvQd+rfztGMhpiOagPaUJKNgmouynv1mETcKFqL4PVw9ICT7InmWFDA==" />
+        sparkle:edSignature="OgNUSeI9otM/LCWkBq/pJPPRSPM/d4OZd6jjy5wYI2zbQAnktjOrUNbz7ArM4dmQWaxqOGNbnAKozeEFs05WCA==" />
     </item>
 
   </channel>
