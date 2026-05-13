@@ -37,3 +37,10 @@ Xem chi tiết changelog của từng phiên bản tại trang [Releases](https:
 ## Hỗ trợ
 
 Nếu gặp vấn đề khi cài đặt hoặc sử dụng, vui lòng [tạo issue](https://github.com/viettien117/AnswerSheetGrader-updates/issues/new) hoặc liên hệ nhà phát triển.
+
+## Bản quyền
+
+Copyright © 2026 TienDepTrai. All rights reserved.
+
+Phần mềm này được phát hành dưới dạng binary cho người dùng cuối sử dụng miễn phí.
+Source code không được phép sao chép, sửa đổi hoặc phân phối lại mà không có sự đồng ý bằng văn bản của tác giả.
